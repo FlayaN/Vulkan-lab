@@ -1,0 +1,6 @@
+[submodule "libraries/vkcpp"]
+	path = libraries/vkcpp
+	url = https://github.com/nvpro-pipeline/vkcpp.git
+[submodule "libraries/vulkan-docs"]
+	path = libraries/vulkan-docs
+	url = https://github.com/KhronosGroup/Vulkan-Docs.git
