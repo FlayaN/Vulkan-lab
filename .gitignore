@@ -1,0 +1,8 @@
+*.suo
+*.opendb
+*.sdf
+*.user
+x64
+Debug
+Release
+vk_cpp.h
